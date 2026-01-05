@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "5fb3493d-557c-4dfe-b78f-6ab440560812",
+			"database_name": "vibesolana"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
